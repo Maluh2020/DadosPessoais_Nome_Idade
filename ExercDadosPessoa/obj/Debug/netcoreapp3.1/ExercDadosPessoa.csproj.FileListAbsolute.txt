@@ -1,0 +1,13 @@
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\ExercDadosPessoa\ExercDadosPessoa\bin\Debug\netcoreapp3.1\ExercDadosPessoa.exe
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\ExercDadosPessoa\ExercDadosPessoa\bin\Debug\netcoreapp3.1\ExercDadosPessoa.deps.json
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\ExercDadosPessoa\ExercDadosPessoa\bin\Debug\netcoreapp3.1\ExercDadosPessoa.runtimeconfig.json
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\ExercDadosPessoa\ExercDadosPessoa\bin\Debug\netcoreapp3.1\ExercDadosPessoa.runtimeconfig.dev.json
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\ExercDadosPessoa\ExercDadosPessoa\bin\Debug\netcoreapp3.1\ExercDadosPessoa.dll
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\ExercDadosPessoa\ExercDadosPessoa\bin\Debug\netcoreapp3.1\ExercDadosPessoa.pdb
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\ExercDadosPessoa\ExercDadosPessoa\obj\Debug\netcoreapp3.1\ExercDadosPessoa.csprojAssemblyReference.cache
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\ExercDadosPessoa\ExercDadosPessoa\obj\Debug\netcoreapp3.1\ExercDadosPessoa.AssemblyInfoInputs.cache
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\ExercDadosPessoa\ExercDadosPessoa\obj\Debug\netcoreapp3.1\ExercDadosPessoa.AssemblyInfo.cs
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\ExercDadosPessoa\ExercDadosPessoa\obj\Debug\netcoreapp3.1\ExercDadosPessoa.csproj.CoreCompileInputs.cache
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\ExercDadosPessoa\ExercDadosPessoa\obj\Debug\netcoreapp3.1\ExercDadosPessoa.dll
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\ExercDadosPessoa\ExercDadosPessoa\obj\Debug\netcoreapp3.1\ExercDadosPessoa.pdb
+C:\Users\Maluh64\Documents\C# COMPLETO UDEMY\ExerciciosSetembro\ExercDadosPessoa\ExercDadosPessoa\obj\Debug\netcoreapp3.1\ExercDadosPessoa.genruntimeconfig.cache
